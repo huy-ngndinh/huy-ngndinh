@@ -1,16 +1,13 @@
-## Hi there 👋
+# :dizzy: Welcome!
+I'm Huy, a boy with a passion for programming and web development. I'm currently a freshman at **Hanoi University of Science and Technology**.
 
-<!--
-**huy-ngndinh/huy-ngndinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :books: Side Projects
 
-Here are some ideas to get you started:
+### :sparkles: [**Chess**](https://github.com/huy-ngndinh/Chess) 
+An origami-themed website where you can challenge a bot to a game of chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :sparkles: [**VocaGraph**](https://github.com/huy-ngndinh/VocaGraph)
+A website to learn vocabulary using semantic map
+
+# :whale: My GitHub 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
